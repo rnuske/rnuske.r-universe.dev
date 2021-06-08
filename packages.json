@@ -1,6 +1,21 @@
 [
-	{
-		"package": "TreeGrOSSinR",
-		"url": "https://github.com/rnuske/TreeGrOSSinR"
-	}
+  {
+    "package": "komaletter",
+    "url": "https://github.com/rnuske/komaletter"
+  },
+
+  {
+    "package": "vegperiod",
+    "url": "https://github.com/rnuske/vegperiod"
+  },
+
+  {
+    "package": "apcf",
+    "url": "https://github.com/rnuske/apcf"
+  },
+
+  {
+    "package": "TreeGrOSSinR",
+    "url": "https://github.com/rnuske/TreeGrOSSinR"
+  }
 ]
