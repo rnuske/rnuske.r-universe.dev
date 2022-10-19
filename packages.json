@@ -1,5 +1,10 @@
 [
   {
+    "package": "et.nwfva",
+    "url": "https://github.com/rnuske/et.nwfva"
+  },
+
+  {
     "package": "komaletter",
     "url": "https://github.com/rnuske/komaletter"
   },
